@@ -1,3 +1,4 @@
+SCRIPT WONT WORK IF U DONT REPLACE UI LIBRARY
 # puppyware_old_source
 The source that dylan sells
 
