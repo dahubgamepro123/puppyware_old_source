@@ -1,3 +1,5 @@
+if you paste and sell it you possibly will be sued under License of Apache.
+
 SCRIPT WONT WORK IF U DONT REPLACE UI LIBRARY
 # puppyware_old_source
 The source that dylan sells
