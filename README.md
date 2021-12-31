@@ -5,3 +5,6 @@ Vault attempted to leak the current source, it does not cause a problem since we
 We are rewriting puppyware that's why we release old source codes so y'all guys can learn
 
 https://github.com/dahubgamepro123/puppyware_old_source
+
+# notWl is the first puppyware release ever
+# other lua script is current source code
